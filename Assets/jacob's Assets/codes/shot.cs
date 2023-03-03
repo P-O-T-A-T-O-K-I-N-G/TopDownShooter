@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class shot : MonoBehaviour
 { 
- //public  gun;
+ //public 
  // Put name for the wapon that will use this code
 
  public int shootButton;
@@ -14,12 +14,12 @@ public class shot : MonoBehaviour
      {
      if (Input.GetMouseButtonDown(0))
      {
-      gun.Shoot();
+      .Shoot();
      }
 
      if (Input.GetKeyDown(KeyCode.R))
      {
-      gun.Reload();
+      .Reload();
      }
      }
 }
