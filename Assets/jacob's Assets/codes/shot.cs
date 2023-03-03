@@ -9,7 +9,7 @@ public class shot : MonoBehaviour
 
  public int shootButton;
  public KeyCode reloadKey;
-
+/*
      void Update()
      {
      if (Input.GetMouseButtonDown(0))
@@ -22,4 +22,6 @@ public class shot : MonoBehaviour
       .Reload();
      }
      }
+
+    */
 }

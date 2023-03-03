@@ -9,6 +9,7 @@ public class deatharea : MonoBehaviour
     public float leftLimit;
     public float rightLimit;
 
+/*
     // Start is called before the first frame update
     void Start()
     {
@@ -35,4 +36,6 @@ public class deatharea : MonoBehaviour
             GameObject.Find("GameManager").GetComponent<GameManager>().Respawn();
         }
     }
+    
+*/
 }
