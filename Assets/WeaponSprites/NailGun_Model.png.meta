@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 988c8021906eadd41ba2057bc5edb1ba
+guid: b0803c49a1a61a84e8152c171334e3c0
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -128,13 +128,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: AbandonedFactory_0
+      name: NailGun_Model_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 2800
-        height: 2800
+        width: 252
+        height: 245
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -142,8 +142,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f60f1e6a77c42214394fe61bf2728303
-      internalID: 352066628
+      spriteID: 3300cfaf858e72e42af5eef49d4997fd
+      internalID: 424985076
       vertices: []
       indices: 
       edges: []
@@ -159,7 +159,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      AbandonedFactory_0: 352066628
+      NailGun_Model_0: 424985076
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 988c8021906eadd41ba2057bc5edb1ba
+guid: ee5d8e86a4a37c648887b855546aac71
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -128,13 +128,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: AbandonedFactory_0
+      name: EyeHammer_Model_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 2800
-        height: 2800
+        width: 308
+        height: 476
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -142,8 +142,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f60f1e6a77c42214394fe61bf2728303
-      internalID: 352066628
+      spriteID: 728ab3a357d934746ae9a315488fc6f3
+      internalID: -1693436844
       vertices: []
       indices: 
       edges: []
@@ -159,7 +159,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      AbandonedFactory_0: 352066628
+      EyeHammer_Model_0: -1693436844
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
